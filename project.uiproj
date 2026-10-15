@@ -1,0 +1,6 @@
+{
+  "Name": "CloudInfrastructureMonitoring",
+  "ProjectType": "Process",
+  "Description": "Cloud Infrastructure Monitoring & Alert System",
+  "MainFile": "Main.xaml"
+}
